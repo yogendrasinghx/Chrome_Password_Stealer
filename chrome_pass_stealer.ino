@@ -17,11 +17,11 @@ void typeKey(int key)
 void setup()
 {
   
-  cpv();
+  cpe();
   
 }
 
-void cpv()
+void cpe()
 {
 
 // --> Initial delay ,Back to desktop and open run.
